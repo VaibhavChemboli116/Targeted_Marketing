@@ -30,3 +30,4 @@ campaign_id: Unique identifier for each campaign.
 
 response: Indicates whether the user responded to the campaign (0, 1).
 
+Results: Successfully, developed a neural network with 90% train, test and validation accuracy and leveraged this model to select top 25% subscribers based upon response probability and increased the response rate by 65%. Deployed the neural network model trained on 260,000 data points, to determine the optimal campaign for each user, increasing the probability of response in the coming weeks.
